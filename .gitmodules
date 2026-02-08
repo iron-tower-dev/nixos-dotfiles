@@ -1,0 +1,18 @@
+[submodule "config/emacs"]
+	path = config/emacs
+	url = https://github.com/iron-tower-dev/emacs
+[submodule "config/fish"]
+	path = config/fish
+	url = https://github.com/iron-tower-dev/fish
+[submodule "config/ghostty"]
+	path = config/ghostty
+	url = https://github.com/iron-tower-dev/ghostty
+[submodule "config/hypr"]
+	path = config/hypr
+	url = https://github.com/iron-tower-dev/hypr
+[submodule "config/nushell"]
+	path = config/nushell
+	url = https://github.com/iron-tower-dev/nushell
+[submodule "config/nvim"]
+	path = config/nvim
+	url = https://github.com/iron-tower-dev/nvim
