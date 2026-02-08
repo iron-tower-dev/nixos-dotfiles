@@ -50,7 +50,6 @@
     cursorTheme = { name = "Numix-Cursor"; package = pkgs.numix-cursor-theme; size = 16; };
     font = { name = "Sans"; size = 10; };
   };
-  home.file.".config/emacs".source = ./config/emacs;
   home.file.".config/fish".source = ./config/fish;
   home.file.".config/ghostty".source = ./config/ghostty;
   home.file.".config/hypr".source = ./config/hypr;
